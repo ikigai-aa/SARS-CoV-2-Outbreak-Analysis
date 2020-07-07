@@ -1,6 +1,6 @@
 # SARS-CoV-2-Outbreak-Analysis :india:
 
-[![](https://github.com/ikigai-aa/SARS-CoV-2-Outbreak-Analysis/blob/master/a-page-001.jpg)](https://github.com/ikigai-aa/SARS-CoV-2-Outbreak-Analysis/blob/master/a-page-001.jpg)
+[![](https://github.com/ikigai-aa/SARS-CoV-2-Outbreak-Analysis/blob/master/a.jpg)]https://github.com/ikigai-aa/SARS-CoV-2-Outbreak-Analysis/blob/master/a.jpg)
 
 ## Table of Content
   * [Overview](#overview)
