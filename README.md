@@ -4,17 +4,13 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
-  * [Directory Tree](#directory-tree)
+  * [Prerequisites](#Prerequisites)
   * [To Do](#to-do)
   * [Bug / Feature Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
-  * [Team](#team)
   * [License](#license)
-  * [Credits](#credits)
-  
+  * [Data Sources](#data-sources)
+ 
  ## Overview
 
 This is a simple IPython notebook in which there is performed Exploratory Data analysis on various datasets, Forecasting and Machine Learning implementation to study the COVID-19 outbreak, impact and spread using model evaluation.Extraction of important factors that impact transmission rate like temperature, humidity, population, and sun-hours with feature engineering after modeling is done at the later half of the notebook.
@@ -33,7 +29,7 @@ This project is divided into some sections like:
 6. To analyze Growth Factor & Inflection.
 7. To have an Exploratory Data analysis, Forecasting and implementing the Machine Learning Models wherever needed.
 
-## Installation
+## Prerequisities
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
@@ -121,10 +117,10 @@ Articles:
 
 
 Datasets:
-• https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
-• https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
-• https://www.kaggle.com/imdevskp/corona-virus-report
-• https://www.kaggle.com/parulpandey/coronavirus-cases-in-india
-• https://worldpopulationreview.com/countries/most-visited-countries/
+1. https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+2. https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+3. https://www.kaggle.com/imdevskp/corona-virus-report
+4. https://www.kaggle.com/parulpandey/coronavirus-cases-in-india
+5. https://worldpopulationreview.com/countries/most-visited-countries/
 
 
